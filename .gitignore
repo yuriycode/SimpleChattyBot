@@ -1,0 +1,65 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
+/Topics/Boolean and logical operations/Program a Boolean function/out/
+/Topics/Boolean and logical operations/Program a Boolean function/out/production/classes/
+/Topics/Characters/Previous character/out/
+/Topics/Characters/Previous character/out/production/classes/
+/Topics/Declaring functions/Right equation/out/
+/Topics/Declaring functions/Right equation/out/production/classes/
+/Topics/If expression/Healthy sleep/out/
+/Topics/If expression/Healthy sleep/out/production/classes/
+/Topics/If expression/Number dividers/out/
+/Topics/If expression/Number dividers/out/production/classes/
+/Topics/If expression/Odd or even/out/
+/Topics/If expression/Odd or even/out/production/classes/
+/Topics/Integers in action/The number of tens/out/
+/Topics/Integers in action/The number of tens/out/production/classes/
+/Topics/Integers in action/The sum of digits/out/
+/Topics/Integers in action/The sum of digits/out/production/classes/
+/Topics/Invoking functions/Lembas/out/
+/Topics/Invoking functions/Lembas/out/production/classes/
+/Topics/Ranges/Within both ranges/out/
+/Topics/Ranges/Within both ranges/out/production/classes/
+/Topics/Relational operators/Boys in the sport class/out/
+/Topics/Relational operators/Boys in the sport class/out/production/classes/
+/Topics/Relational operators/Check the sum/out/
+/Topics/Relational operators/Check the sum/out/production/classes/
+/Topics/Repeating blocks/Kotlin x5/out/
+/Topics/Repeating blocks/Kotlin x5/out/production/classes/
+/Topics/Repeating blocks/Size of parts/out/
+/Topics/Repeating blocks/Size of parts/out/production/classes/
+/Topics/Standard input/Printing each word in a new line/out/
+/Topics/Standard input/Printing each word in a new line/out/production/classes/
+/Topics/Standard input/Read and print/out/
+/Topics/Standard input/Read and print/out/production/classes/
+/Topics/String basics/JSON/out/
+/Topics/String basics/JSON/out/production/classes/
+/Topics/String templates/Arithmetic expression/out/
+/Topics/String templates/Arithmetic expression/out/production/classes/
+/Topics/String templates/Date and time formatting/out/
+/Topics/String templates/Date and time formatting/out/production/classes/
+/Topics/String templates/Print two numbers on the same line/out/
+/Topics/String templates/Print two numbers on the same line/out/production/classes/
+/Topics/String templates/Repetitions and templates/out/
+/Topics/String templates/Repetitions and templates/out/production/classes/
+/Topics/The classification of basic types/Max values of integer types/out/
+/Topics/The classification of basic types/Max values of integer types/out/production/classes/
+/Topics/The classification of basic types/Size, min and max/out/
+/Topics/The classification of basic types/Size, min and max/out/production/classes/
+/Topics/Type conversion/Lie detector/out/
+/Topics/Type conversion/Lie detector/out/production/classes/
+/Topics/Values and variables/val or var/out/
+/Topics/Values and variables/val or var/out/production/classes/
+/Topics/While loops/The largest element/out/
+/Topics/While loops/The largest element/out/production/classes/
+/Topics/While loops/The length of the sequence/out/
+/Topics/While loops/The length of the sequence/out/production/classes/
+/Topics/Working with strings/Name Card/out/
+/Topics/Working with strings/Name Card/out/production/classes/
+/Topics/Working with strings/Operations and truth/out/
+/Topics/Working with strings/Operations and truth/out/production/classes/
+/Topics/Working with strings/The same line/out/
+/Topics/Working with strings/The same line/out/production/classes/
